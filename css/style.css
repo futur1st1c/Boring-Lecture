@@ -8,3 +8,9 @@ p.intro{
    font-style: oblique;
    font-family:serif;
  }
+
+  img.intro{
+   border: 15px solid #3e2b14;
+  padding: 10px;
+}
+  
