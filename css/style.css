@@ -1,0 +1,10 @@
+p.intro{
+  color: red;
+  font-family: sans-serif;
+  font-weight:600;
+}
+ h2.intro{
+   color: blue;
+   font-style: oblique;
+   font-family: fantasy;
+ }
